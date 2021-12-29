@@ -470,7 +470,7 @@ input:checked ~ .nav-close {
 }
 
 .copyright{
-  color: yellow;
+  color: white;
   text-align: center;
   font-size: 14px;
   line-height: 200%;

@@ -469,6 +469,13 @@ input:checked ~ .nav-close {
   transform: none;
 }
 
+.copyright{
+  color: white;
+  text-align: center;
+  font-size: 14px;
+  line-height: 200%;
+}
+
 /* // ====横幅1920以上のディスプレイの場合===== */
 @media screen and (min-width: 1920px) {
   .main-title {

@@ -113,6 +113,10 @@ input {
   cursor: pointer;
 }
 
+.git-link{
+  color: white;
+}
+
 .content {
   background-color: gray;
   width: 100%;
